@@ -1,2 +1,1 @@
-# micrroservice-hotel-rating-system
-Using Microservice Hotel Rating System
+please seen master branch

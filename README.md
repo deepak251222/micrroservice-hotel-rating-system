@@ -8,11 +8,11 @@ Developed a distributed and scalable Microservice Hotel Rating System to allow u
 
 Technologies Used:
 - Spring Boot
-- Java
+- Java 8
 - Microservice
 - Spring Cloud (Eureka for service discovery, Zuul for API gateway)
 - Docker (for containerization)
-- MongoDB (or your preferred NoSQL database)
+- MongoDB and sql
 
 Key Contributions:
 - Designed and implemented microservices to handle various functionalities, such as user registration, hotel rating, and review management.
